@@ -9,7 +9,7 @@ import simple.hooks.wrappers.SimpleObject;
 import simple.robot.script.Script;
 
 
-@ScriptManifest(author = "unix && alex", category = Category.MINING, description = "Mines amethyst and banks it all", discord = "empty",
+@ScriptManifest(author = "unix && alex", category = Category.MINING, description = "Mines amethyst and banks it all, u have to be at the amethyst rocks at home and both the rocks and deposit box must be visible", discord = "empty",
         name = "daAmethyst miner", servers = { "Battlescape" }, version = "1.0")
 public class daMain extends Script {
 
